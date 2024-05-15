@@ -1,0 +1,24 @@
+
+.evm{
+  margin-top: px;
+  margin-left: 200px;
+}
+
+.logo{
+ height: 50px;
+ width: 65px;
+}
+.vote{
+  background-color: aliceblue;
+  color: rgb(0, 0, 0);
+}
+.h{
+  display: flex;
+  flex-direction:column-reverse;
+  justify-content: center;
+}
+.btn{
+  height: 110px;
+  margin: 5px;
+  padding: 2px;
+}
